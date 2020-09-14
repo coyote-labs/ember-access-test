@@ -61,7 +61,7 @@
     "ember-source": "~3.13.2",
     "ember-source-channel-url": "^2.0.1",
     "ember-try": "^1.0.0",
-    "eslint-plugin-ember": "^7.0.0",
+    "eslint-plugin-ember": "^8.14.0",
     "eslint-plugin-ember-suave": "^2.0.0-beta.1",
     "eslint-plugin-node": "^10.0.0",
     "husky": "^3.0.0",
